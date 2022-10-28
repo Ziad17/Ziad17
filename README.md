@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziad17" alt="ziad17" /></a> </p>
 
-- 🔭 I’m currently working at **AlexApps**
+- 🔭 I’m currently working at **Core DT**
 
 - 🌱 I’m currently learning **VueJs3**
 
