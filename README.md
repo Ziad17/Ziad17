@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working at **Core DT**
 
-- 🌱 I’m currently learning **VueJs3**
-
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ziad-m-fathy-276359160/](https://www.linkedin.com/in/ziad-m-fathy-276359160/)
 
 - 💬 Ask me about **.Net Core, Sql Databases**
