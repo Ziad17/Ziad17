@@ -3,14 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziad17" alt="ziad17" /></a> </p>
 
-- 🔭 I’m currently working at **Core DT**
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ziad-m-fathy-276359160/](https://www.linkedin.com/in/ziad-m-fathy-276359160/)
-
-- 💬 Ask me about **.Net Core, Sql Databases**
-
-- 📫 How to reach me **ziadmohamd456@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ziad-m-fathy-276359160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziad-m-fathy-276359160" height="30" width="40" /></a>
